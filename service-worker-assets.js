@@ -56,10 +56,12 @@
       "hash": "sha256-IpHFcQvs03lh6W54zoeJRG1jW+VnGmwymzxLoXtKX7Y=",
       "url": "icon-512.png"
     },
+/*
     {
       "hash": "sha256-fZDxyAc\/ZX1qjNRjARuMHH8Oo8\/R\/cFrm7jfqLcXAVk=",
       "url": "index.html"
     },
+*/
     {
       "hash": "sha256-nf8iopTVjY0OKHqL6IZVrgKjoxCcViKri5T9iTZKKaU=",
       "url": "manifest.json"
@@ -72,10 +74,12 @@
       "hash": "sha256-\/naE+7n4c+w8QbCIig7eL4YE+VuXbIXU7fnKW7wXU\/o=",
       "url": "framework\/dotnet.wasm"
     },
+/*
     {
       "hash": "sha256-5JKEdYAKQPyP9qn5g\/8nlXlJ+Nx0IVl5+QjTFPqT\/fc=",
       "url": "framework\/dotnet.5.0.0-preview.7.20364.11.js"
     },
+*/
     {
       "hash": "sha256-no9oJ5HY5V5r8Kw6UsJX\/Eb\/+lrLBKq1foeXI+s1c+0=",
       "url": "framework\/Microsoft.AspNetCore.Components.dll"
