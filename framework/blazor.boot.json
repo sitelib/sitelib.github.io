@@ -56,7 +56,7 @@
     "pdb": null,
     "runtime": {
       "dotnet.wasm": "sha256-\/naE+7n4c+w8QbCIig7eL4YE+VuXbIXU7fnKW7wXU\/o=",
-      "dotnet.5.0.0-preview.7.20364.11.js": "kTDY5TEMM\/do\/gl1EYnZCOAjTQtdqkqe4b+3NpVj+uM="
+      "dotnet.5.0.0-preview.7.20364.11.js": "sha256-kTDY5TEMM\/do\/gl1EYnZCOAjTQtdqkqe4b+3NpVj+uM="
     },
     "satelliteResources": null
   }
