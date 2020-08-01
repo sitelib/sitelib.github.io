@@ -57,7 +57,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-fZDxyAc\/ZX1qjNRjARuMHH8Oo8\/R\/cFrm7jfqLcXAVk=",
+      "hash": "sha256-doPs2XKovyMhhLbel8EyF21BdkK+15gVhDh1AJWAb50=",
       "url": "index.html"
     },
     {
@@ -261,7 +261,7 @@
       "url": "framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-2R4Ig1b1gisad+9jf8EQZuK+s\/78WocKgMyVoXdkFyg=",
+      "hash": "sha256-Kxhtzle8Y8cbn+uwOyZDzr\/owf1af5wHSbX+zo3JJDg=",
       "url": "framework\/blazor.webassembly.js"
     }
   ],
