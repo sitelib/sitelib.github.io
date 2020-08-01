@@ -74,12 +74,10 @@
       "hash": "sha256-\/naE+7n4c+w8QbCIig7eL4YE+VuXbIXU7fnKW7wXU\/o=",
       "url": "framework\/dotnet.wasm"
     },
-/*
     {
       "hash": "sha256-5JKEdYAKQPyP9qn5g\/8nlXlJ+Nx0IVl5+QjTFPqT\/fc=",
       "url": "framework\/dotnet.5.0.0-preview.7.20364.11.js"
     },
-*/
     {
       "hash": "sha256-no9oJ5HY5V5r8Kw6UsJX\/Eb\/+lrLBKq1foeXI+s1c+0=",
       "url": "framework\/Microsoft.AspNetCore.Components.dll"
@@ -263,11 +261,13 @@
     {
       "hash": "sha256-TpnG\/fXEALEeFznnhFuKJtia2F5TybE4ivAtpv0KsBM=",
       "url": "framework\/blazor.boot.json"
-    },
+    }
+/*
     {
       "hash": "sha256-2R4Ig1b1gisad+9jf8EQZuK+s\/78WocKgMyVoXdkFyg=",
       "url": "framework\/blazor.webassembly.js"
     }
+    */
   ],
   "version": "Y\/PDqOva"
 };
