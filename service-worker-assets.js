@@ -1,11 +1,11 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-XYWCoB7if0Rsc+clO3+Wnv+xmUSUt7heXyeCEXy9IDY=",
+      "hash": "sha256-YpDpE4KFHgzNIhzxbl7E8dg6LE5nHJF04sUhHu++sn0=",
       "url": "css\/app.css"
     },
     {
-      "hash": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=",
+      "hash": "sha256-YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=",
       "url": "css\/bootstrap\/bootstrap.min.css"
     },
     {
@@ -61,11 +61,11 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-nf8iopTVjY0OKHqL6IZVrgKjoxCcViKri5T9iTZKKaU=",
+      "hash": "sha256-8QJPZzb7bb1UY6jQP30X83eVlcP+Awyyj+aPhzRhnI8=",
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-yzFf+O\/mlH+Q9klUSqXP2kxGKOUFLPxaww8da8fKhGU=",
+      "hash": "sha256-4Yh4OTT5TEAPNyXEzOG+n5l2HPK294WFItz4SIelj88=",
       "url": "sample-data\/weather.json"
     },
     {
