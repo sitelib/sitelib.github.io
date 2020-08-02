@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Locating</title>
+</head>
+<body>
+	File Not Found!
+	<script type="text/javascript">
+		window.location("/");
+	</script>
+</body>
+</html>
