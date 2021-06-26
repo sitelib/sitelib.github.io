@@ -241,7 +241,7 @@
       "url": "framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-dl8FVRvWOJfOtzIC\/x66QNnBNsT9cAOMrn22GB8fJ8U=",
+      "hash": "sha256-guaEEISMhwKAEHL98v9xV8S9s7sBQYkuzCYs0YetAjI=",
       "url": "framework\/blazor.webassembly.js"
     }
   ],
