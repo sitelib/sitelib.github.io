@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-8aM9R9K90X6h+KPDW4OzrEh071mAs7dvAQxjBxAZQAc=",
+      "hash": "sha256-SO\/fuIIWUxoIu1OABrOpK5n\/AvzxJcg+0H3PT1eutAE=",
       "url": "css\/app.css"
     },
     {
@@ -93,7 +93,7 @@
       "url": "framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-eVXC3H\/4m+ezQQjTc2E1OnklHv6g4ww4m3wKRI8boW8=",
+      "hash": "sha256-y+FDN+tQsjEDvbZn4gnCxFrs09PIV++bJUd\/ZZ\/TZZ4=",
       "url": "framework\/dotnet.5.0.7.js"
     },
     {
